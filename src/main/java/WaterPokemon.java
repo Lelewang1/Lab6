@@ -6,7 +6,7 @@ public class WaterPokemon extends Pokemon {
     /**
      * The value we will be setting our specialty probability to.
      */
-    final double specProb = 0.2;
+    final double specProb = 0.1;
     /**
      * We now have a specialty attack for the water pokemon! Hydro cannon attack!
      */
